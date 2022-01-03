@@ -1,0 +1,7 @@
+abstract	n.	บทคัดย่อ	ผลการศึกษาดังกล่าวนี้ได้รับรางวัลบทคัดย่อการศึกษาวิจัยยอดเยี่ยม	The research results received an outstanding research abstract award.
+accumulate, (intangible)	สั่งสม	นายกรัฐมนตรีกำลังสั่งสมอำนาจโดยไม่มีผู้ใดคอยเหนี่ยวรั้ง
+The prime minister is accumulating power without anyone to deter him.
+accurate, (on target)	แม่นยำ	คณะผู้วิจัยหวังว่าได้พบวิธีที่ง่ายและแม่นยำเพื่อใช้ตรวจคัดมะเร็งลำไส้ใหญ่แล้ว	The researchers hope they have found a simple and accurate way to screen for colon cancer.
+accurate, (correct)	ถูกต้อง	ผู้บัญชาการกล่าวว่าจะให้ข้อมูลที่ถูกต้อง	The commander stated that he will provide accurate data.
+achieve	บรรลุ	ขณะนี้ผู้ก่อการร้ายยังไม่บรรลุวัตถุประสงค์	At this time the terrorists have not achieved their objectives.
+
